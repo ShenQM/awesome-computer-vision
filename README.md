@@ -5,10 +5,11 @@ A curated list of awesome computer vision resources, inspired by [awesome-php](h
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (jbhuang1@illinois.edu) to add links.
+Please feel free to send me [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) or email (jbhuang@vt.edu) to add links.
 
 ## Table of Contents
 
+ - [Awesome Lists](#awesome-lists)
  - [Books](#books)
  - [Courses](#courses)
  - [Papers](#papers)
@@ -19,6 +20,62 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  - [Blogs](#blogs)
  - [Links](#links)
  - [Songs](#songs)
+
+## Awesome Lists
+ - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+ - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+ - [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
+ - [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
+ - [Awesome 3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
+ - [Awesome Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+ - [Awesome Scene Understanding](https://github.com/bertjiazheng/awesome-scene-understanding)
+ - [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+ - [Awesome Adversarial Deep Learning](https://github.com/chbrian/awesome-adversarial-examples-dl)
+ - [Awesome Face](https://github.com/polarisZhao/awesome-face)
+ - [Awesome Face Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+ - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
+ - [Awesome medical imaging](https://github.com/fepegar/awesome-medical-imaging)
+ - [Awesome Images](https://github.com/heyalexej/awesome-images)
+ - [Awesome Graphics](https://github.com/ericjang/awesome-graphics)
+ - [Awesome Neural Radiance Fields](https://github.com/yenchenlin/awesome-NeRF)
+ - [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations)
+ - [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
+ - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+ - [Awesome Dataset Tools](https://github.com/jsbroks/awesome-dataset-tools)
+ - [Awesome Robotics Datasets](https://github.com/sunglok/awesome-robotics-datasets)
+ - [Awesome Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
+ - [Awesome Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
+ - [Awesome Fairness in AI](https://github.com/datamllab/awesome-fairness-in-ai)
+ - [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+ - [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+ - [Awesome Video Text Retrieval](https://github.com/danieljf24/awesome-video-text-retrieval)
+ - [Awesome Image-to-Image Translation](https://github.com/weihaox/awesome-image-translation)
+ - [Awesome Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
+ - [Awesome Deep HDR](https://github.com/vinthony/awesome-deep-hdr)
+ - [Awesome Video Generation](https://github.com/matthewvowels1/Awesome-Video-Generation)
+ - [Awesome GAN applications](https://github.com/nashory/gans-awesome-applications)
+ - [Awesome Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)
+ - [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
+ - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+ - [Awesome Machine Learning in Biomedical(Healthcare) Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
+ - [Awesome Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+ - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
+ - [Awesome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
+ - [Awesome Vision + Language](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
+ - [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
+ - [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+ - [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
+ - [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
+ - [Awesome Makeup Transfer](https://github.com/thaoshibe/awesome-makeup-transfer)
+ - [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
+ - [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring)
+ - [Awsome Deep Geometry Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning)
+ - [Awesome Image Distortion Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction)
+ - [Awesome Neuron Segmentation in EM Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images)
+ - [Awsome Delineation](https://github.com/subeeshvasu/Awsome_Delineation)
+ - [Awesome ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization)
+ - [Awsome GAN Training](https://github.com/subeeshvasu/Awsome-GAN-Training)
+ 
 
 ## Books
 
@@ -33,6 +90,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Computer Vision for Visual Effects](http://cvfxbook.com/) - Richard J. Radke, 2012
 * [High dynamic range imaging: acquisition, display, and image-based lighting](http://www.amazon.com/High-Dynamic-Range-Imaging-Second/dp/012374914X) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
 * [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) - Justin Solomon 2015
+* [Image Processing and Analysis](https://www.amazon.com/Processing-Analysis-Activate-Learning-Engineering/dp/1285179528) - Stan Birchfield 2018
+* [Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/) - Silvio Savarese 2018
 
 #### OpenCV Programming
 * [Learning OpenCV: Computer Vision with the OpenCV Library](http://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/0596516134) - Gary Bradski and Adrian Kaehler
@@ -105,7 +164,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Sebastian Thrun (Stanford University)
  * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (Georgia Tech)
  * [(Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (Stanford University)
- * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl - Rudolph Triebel (TU Munich)
+ * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) - Rudolph Triebel (TU Munich)
 
 
 
@@ -215,6 +274,12 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 	* [Deep Learning Session 3](https://www.youtube.com/watch?v=_cohR7LAgWA) - Yoshua Bengio (University of Montreal)
 
 ## Software
+
+#### Annotation tools
+* [Comma Coloring](http://commacoloring.herokuapp.com/)
+* [Annotorious](https://annotorious.github.io/)
+* [LabelME](http://labelme.csail.mit.edu/Release3.0/)
+* [gtmaker](https://github.com/sanko-shoko/gtmaker)
 
 #### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
@@ -538,6 +603,7 @@ Non-uniform Deblurring
  * [CVOnline Dataset](http://homepages.inf.ed.ac.uk/cgi/rbf/CVONLINE/entries.pl?TAG363)
  * [CV datasets](http://clickdamage.com/sourcecode/cv_datasets.php)
  * [visionbib](http://datasets.visionbib.com/info-index.html)
+ * [VisualData](http://www.visualdata.io/)
 
 #### Low-level Vision
 
@@ -654,6 +720,10 @@ Non-uniform Deblurring
  # [SUN RGB-D](http://rgbd.cs.princeton.edu/) - A RGB-D Scene Understanding Benchmark Suite
  # [NYU depth v2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html) - Indoor Segmentation and Support Inference from RGBD Images
 
+#### Aerial images
+ # [Aerial Image Segmentation](https://zenodo.org/record/1154821#.WmN9kHWnHIp) - Learning Aerial Image Segmentation From Online Maps
+
+
 ## Resources for students
 
 #### Resource link collection
@@ -707,6 +777,7 @@ Non-uniform Deblurring
  * [Andrej Karpathy blog](http://karpathy.github.io/) - Andrej Karpathy
  * [AI Shack](http://aishack.in/) - Utkarsh Sinha
  * [Computer Vision Talks](http://computer-vision-talks.com/) - Eugene Khvedchenya
+ * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) - Jason Chin (University of Western Ontario)
 
 
 ## Links
